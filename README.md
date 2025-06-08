@@ -44,7 +44,7 @@ This project uses open-source data from **Our World in Data** and Python tools t
 
 1. Load and clean the dataset  
 
-[Data Preview](screenshots/data_preview.png)
+[Data Preview](SCREENSHOTS/DATA%20PREVIEW.png)
 
 2. Select relevant features  
 3. Handle missing data  
