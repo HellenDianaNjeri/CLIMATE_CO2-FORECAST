@@ -1,0 +1,17 @@
+# Core Python libraries for data science
+numpy
+pandas
+
+# Data visualization
+matplotlib
+seaborn
+
+# Machine learning
+scikit-learn
+
+# Jupyter Notebook environment
+notebook
+jupyter
+
+# Optional: better CSV parsing and performance
+openpyxl
