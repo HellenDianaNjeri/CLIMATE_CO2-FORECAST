@@ -43,14 +43,24 @@ This project uses open-source data from **Our World in Data** and Python tools t
 ## Workflow Overview
 
 1. Load and clean the dataset  
+
+[Data Preview](screenshots/data_preview.png)
+
 2. Select relevant features  
 3. Handle missing data  
 4. Split into train/test sets  
 5. Train regression models (Linear Regression, Random Forest)  
 6. Evaluate performance using MAE, RMSE, and R²  
+
+[Model Metrics](SCREENSHOTS/MODEL%20PERFORMANCE%20METRICS.png)
+
 7. Visualize predictions vs actual values  
+
+[Actual vs Predicted](SCREENSHOTS/ACTUAL%20VS%20PREDICTED%20CO2%20EMISSIONS.png)
+
 8. Reflect on bias and fairness
 
+[Ethical Reflection](SCREENSHOTS/ETHICAL%20REFLECTION%20SECTION.png)
 ---
 ## Machine Learning Approach
 - Model Used: Linear Regression
